@@ -1,0 +1,358 @@
+{
+  "profiles": [
+    {
+      "id": "support",
+      "label": "Support IT",
+      "name": "Noa Durandeau",
+      "role": "Technicien Support Informatique",
+      "summary": "Technicien systèmes et réseaux, solide maîtrise de Windows/Linux/macOS, Microsoft 365 et gestion des accès (Active Directory, Azure AD). Habitué au support L1/L2, à la résolution rapide d’incidents, à la documentation claire et à la relation utilisateur.",
+      "avatar": "assets/avatar.jpg",
+      "contact": {
+        "email": "noadurandeau.pro@gmail.com",
+        "phone": "+33 7 68 81 91 14",
+        "location": "24 rue des Contours, Auzielle 31650",
+        "driving_license": "Permis B",
+        "website": "",
+        "linkedin": "",
+        "github": ""
+      },
+      "skills": {
+        "Administration systèmes & réseaux": [
+          "Microsoft 365",
+          "Windows",
+          "Linux",
+          "macOS",
+          "Active Directory",
+          "GPO",
+          "Azure AD",
+          "MFA",
+          "SCCM",
+          "Intune",
+          "Endpoint Manager",
+          "TCP/IP",
+          "DNS",
+          "DHCP",
+          "VPN"
+        ],
+        "Support & outils": [
+          "Support L1/L2",
+          "GLPI",
+          "Jira",
+          "Ticketing",
+          "Documentation technique",
+          "Sauvegardes de base"
+        ],
+        "Réseaux & VoIP": [
+          "Cisco (Packet Tracer)",
+          "VLAN",
+          "QoS",
+          "VoIP",
+          "Téléphonie IP",
+          "Asterisk (Trixbox)"
+        ],
+        "Cybersécurité": [
+          "Segmentation (VLAN)",
+          "Wireshark",
+          "Nmap",
+          "Metasploit",
+          "OpenVAS/Nessus",
+          "RGPD & ISO 27001 (bonnes pratiques)"
+        ]
+      },
+      "soft_skills": [
+        "Rigueur",
+        "Autonomie",
+        "Travail en équipe",
+        "Esprit d’analyse",
+        "Orientation solutions",
+        "Curiosité technique"
+      ],
+      "languages": [
+        "Français (C1)",
+        "Anglais (B2)"
+      ],
+      "experience": [
+        {
+          "company": "PROMOLOGIS",
+          "role": "Stagiaire Technicien Support Informatique",
+          "start": "2024-05",
+          "end": "2024-06",
+          "bullets": [
+            "Déploiement d’une infrastructure réseau incluant téléphonie IP et VOD.",
+            "Mise en place de VLANs (Cisco Packet Tracer), routage et supervision.",
+            "Installation/configuration d’un serveur Asterisk (Trixbox) et comptes SIP.",
+            "Déploiement d’un serveur VOD (Debian/VLC).",
+            "Diagnostic réseau (ping, traceroute, Wireshark) & sécurisation des flux.",
+            "Rédaction de documentation technique (procédures, schémas, config)."
+          ]
+        },
+        {
+          "company": "Clark Powell – Salle de sport",
+          "role": "Support informatique",
+          "start": "2024-01",
+          "end": "2025-01",
+          "bullets": [
+            "Administration du logiciel de gestion des adhésions et base clients.",
+            "Dépannage des postes d’accueil, imprimantes, terminaux de paiement (N1).",
+            "Maintenance des équipements connectés (écrans, Wi‑Fi clients).",
+            "Mise à jour d’informations en ligne et supports digitaux.",
+            "Rapports d’activité & statistiques (Excel).",
+            "Gestion des accès par badge et contrôle d’entrée."
+          ]
+        },
+        {
+          "company": "Particuliers",
+          "role": "Support IT bénévole",
+          "start": "2023-01",
+          "end": "2025-01",
+          "bullets": [
+            "Installation Windows, configuration Wi‑Fi, dépannage bureautique.",
+            "Sauvegardes et sécurité de base, conseils de bonnes pratiques."
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Plateforme VOD & VoIP",
+          "subtitle": "Réseaux — VoIP — QoS",
+          "bullets": [
+            "Réseau multi‑VLAN (voix/vidéo/données) — isolation & QoS.",
+            "Serveur Asterisk (Trixbox) + comptes SIP (PC, softphones, smartphones).",
+            "Serveur VOD Debian (VLC) — diffusion vidéo sécurisée.",
+            "Tests (ping, traceroute, Wireshark) & durcissement."
+          ]
+        },
+        {
+          "title": "Projet IoT & Réseaux",
+          "subtitle": "Raspberry Pi — LoRaWAN",
+          "bullets": [
+            "Capteurs (température/pression/humidité/GPS) reliés à un Raspberry Pi.",
+            "Interface web de visualisation & supervision temps réel (LoRaWAN)."
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "BTS Cybersécurité, Informatique et Réseaux, Électronique",
+          "school": "Lycée Pierre Paul Riquet",
+          "start": "2023",
+          "end": "2025"
+        },
+        {
+          "degree": "Baccalauréat STI2D",
+          "school": "Lycée Pierre Paul Riquet",
+          "start": "2020",
+          "end": "2023"
+        }
+      ],
+      "certifications": [
+        "Cisco – Introduction to Cybersecurity"
+      ],
+      "theme": {
+        "accent": "#7C3AED"
+      }
+    },
+    {
+      "id": "reseaux",
+      "label": "Réseaux",
+      "name": "Noa Durandeau",
+      "role": "Technicien Systèmes & Réseaux",
+      "summary": "Passionné de réseaux : VLAN, routage, VoIP (Asterisk), supervision et QoS. À l’aise sur Cisco Packet Tracer et les diagnostics (Wireshark). Objectif : fiabilité, sécurité et performance des infrastructures.",
+      "avatar": "assets/avatar.jpg",
+      "contact": {
+        "email": "noadurandeau.pro@gmail.com",
+        "phone": "+33 7 68 81 91 14",
+        "location": "24 rue des Contours, Auzielle 31650",
+        "driving_license": "Permis B"
+      },
+      "skills": {
+        "Réseaux": [
+          "VLAN",
+          "Routage",
+          "QoS",
+          "Cisco Packet Tracer",
+          "TCP/IP",
+          "DNS",
+          "DHCP",
+          "VPN",
+          "Supervision"
+        ],
+        "VoIP": [
+          "Asterisk (Trixbox)",
+          "SIP (PC, softphones, smartphones)",
+          "Téléphonie IP"
+        ],
+        "Systèmes": [
+          "Debian",
+          "Windows",
+          "Linux",
+          "Microsoft 365"
+        ],
+        "Diag & Sécu": [
+          "Wireshark",
+          "Nmap",
+          "Segmentation",
+          "Pare-feu",
+          "ACL"
+        ]
+      },
+      "soft_skills": [
+        "Esprit d’analyse",
+        "Rigueur",
+        "Orientation solutions",
+        "Autonomie"
+      ],
+      "languages": [
+        "Français (C1)",
+        "Anglais (B2)"
+      ],
+      "experience": [
+        {
+          "company": "PROMOLOGIS",
+          "role": "Technicien Réseaux (stage)",
+          "start": "2024-05",
+          "end": "2024-06",
+          "bullets": [
+            "Réseau multi‑VLAN (voix/vidéo/data) & routage.",
+            "Téléphonie IP : serveur Asterisk (Trixbox) & comptes SIP.",
+            "Serveur VOD Debian (VLC) et sécurisation des flux.",
+            "Supervision & diagnostics (ping, traceroute, Wireshark)."
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Plateforme VOD & VoIP",
+          "subtitle": "Segmentation & QoS",
+          "bullets": [
+            "Conception réseau, isolement des flux et priorisation voix.",
+            "Déploiement SIP et VOD, mesures et durcissement."
+          ]
+        },
+        {
+          "title": "IoT + LoRaWAN",
+          "subtitle": "Collecte & supervision",
+          "bullets": [
+            "Raspberry Pi + capteurs (T°, humidité, GPS).",
+            "Réseau LoRaWAN & interface web temps réel."
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "BTS Cybersécurité, Informatique et Réseaux, Électronique",
+          "school": "Lycée Pierre Paul Riquet",
+          "start": "2023",
+          "end": "2025"
+        }
+      ],
+      "certifications": [
+        "Cisco – Introduction to Cybersecurity"
+      ],
+      "theme": {
+        "accent": "#22C55E"
+      }
+    },
+    {
+      "id": "cyber",
+      "label": "Cybersécurité",
+      "name": "Noa Durandeau",
+      "role": "Technicien Systèmes & Sécurité",
+      "summary": "Orienté sécurité : segmentation par VLAN, durcissement réseau, gestion des accès (AD, Azure AD, MFA) et analyse (Wireshark, Nmap, OpenVAS/Nessus). Sensibilisé aux bonnes pratiques RGPD/ISO 27001.",
+      "avatar": "assets/avatar.jpg",
+      "contact": {
+        "email": "noadurandeau.pro@gmail.com",
+        "phone": "+33 7 68 81 91 14",
+        "location": "24 rue des Contours, Auzielle 31650",
+        "driving_license": "Permis B"
+      },
+      "skills": {
+        "Sécurité réseau": [
+          "VLAN",
+          "VPN",
+          "Pare-feu",
+          "ACL",
+          "IDS/IPS",
+          "Segmentation",
+          "Durcissement"
+        ],
+        "Audit & diag": [
+          "Wireshark",
+          "Nmap",
+          "Metasploit",
+          "OpenVAS/Nessus"
+        ],
+        "Identités & postes": [
+          "Active Directory",
+          "Azure AD",
+          "MFA",
+          "Intune",
+          "SCCM",
+          "Endpoint Manager"
+        ],
+        "Systèmes": [
+          "Windows",
+          "Linux",
+          "macOS"
+        ]
+      },
+      "soft_skills": [
+        "Rigueur",
+        "Esprit d’analyse",
+        "Curiosité technique",
+        "Travail en équipe"
+      ],
+      "languages": [
+        "Français (C1)",
+        "Anglais (B2)"
+      ],
+      "experience": [
+        {
+          "company": "PROMOLOGIS",
+          "role": "Technicien Sécurité (stage)",
+          "start": "2024-05",
+          "end": "2024-06",
+          "bullets": [
+            "Sécurisation des flux VoIP/VOD et supervision.",
+            "Tests & validation QoS, analyse réseau (Wireshark).",
+            "Documentation technique & recommandations de durcissement."
+          ]
+        },
+        {
+          "company": "Support IT bénévole",
+          "role": "Conseil & hygiène numérique",
+          "start": "2023-01",
+          "end": "2025-01",
+          "bullets": [
+            "Sauvegardes, MFA et sensibilisation.",
+            "Configuration de base des pare‑feu domestiques."
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "VOD & VoIP durcis",
+          "subtitle": "Sécurité des services",
+          "bullets": [
+            "Séparation des flux (VLAN), ACL et tests d’intrusion légers.",
+            "Collecte d’artefacts & traçabilité (Wireshark)."
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "BTS Cybersécurité, Informatique et Réseaux, Électronique",
+          "school": "Lycée Pierre Paul Riquet",
+          "start": "2023",
+          "end": "2025"
+        }
+      ],
+      "certifications": [
+        "Cisco – Introduction to Cybersecurity"
+      ],
+      "theme": {
+        "accent": "#F59E0B"
+      }
+    }
+  ]
+}
